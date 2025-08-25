@@ -69,7 +69,7 @@ The analysis utilizes the Northwind database with the following key tables:
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/northwind-insights-project.git
+   git clone https://github.com/bavanshika25/northwind-insights-project.git
    ```
 
 2. Import the Northwind database to your SQL environment
