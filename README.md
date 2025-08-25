@@ -110,12 +110,6 @@ northwind-insights-project/
 - [ ] Advanced statistical analysis (correlation, regression)
 - [ ] Real-time dashboard with automated data refresh
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-Project Link: [https://github.com/yourusername/northwind-insights-project](https://github.com/yourusername/northwind-insights-project)
-
 ## 🙏 Acknowledgments
 
 - Microsoft for providing the Northwind sample database
